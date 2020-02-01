@@ -11,6 +11,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableCaching
 @EnableTransactionManagement
 public class LegalConsultationApplication {
+    //
 
     public static void main(String[] args) {
         SpringApplication.run(LegalConsultationApplication.class, args);
